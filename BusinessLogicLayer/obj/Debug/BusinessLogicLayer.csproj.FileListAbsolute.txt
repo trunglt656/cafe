@@ -1,0 +1,23 @@
+E:\University\3rd year\1st Project\Do-an-1\QLCF\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+E:\University\3rd year\1st Project\Do-an-1\QLCF\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+E:\University\3rd year\1st Project\Do-an-1\QLCF\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+E:\University\3rd year\1st Project\Do-an-1\QLCF\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+E:\University\3rd year\1st Project\Do-an-1\QLCF\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+E:\University\3rd year\1st Project\Do-an-1\QLCF\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+E:\University\3rd year\1st Project\Do-an-1\QLCF\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+E:\University\3rd year\Project 1\Do-an-1\QLCF\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+E:\University\3rd year\Project 1\Do-an-1\QLCF\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+E:\University\3rd year\Project 1\Do-an-1\QLCF\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+E:\University\3rd year\Project 1\Do-an-1\QLCF\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+E:\University\3rd year\Project 1\Do-an-1\QLCF\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+E:\University\3rd year\Project 1\Do-an-1\QLCF\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+E:\University\3rd year\Project 1\Do-an-1\QLCF\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+D:\demo\Do-an-1\QLCF\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+D:\demo\Do-an-1\QLCF\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+D:\demo\Do-an-1\QLCF\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+D:\demo\Do-an-1\QLCF\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+D:\demo\Do-an-1\QLCF\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+D:\demo\Do-an-1\QLCF\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\demo\Do-an-1\QLCF\BusinessLogicLayer\obj\Debug\Business.450209FB.Up2Date
+D:\demo\Do-an-1\QLCF\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+D:\demo\Do-an-1\QLCF\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb

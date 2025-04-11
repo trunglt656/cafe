@@ -1,0 +1,71 @@
+E:\University\3rd year\1st Project\Do-an-1\QLCF\QLCF\bin\Debug\QLCF.exe.config
+E:\University\3rd year\1st Project\Do-an-1\QLCF\QLCF\bin\Debug\QLCF.exe
+E:\University\3rd year\1st Project\Do-an-1\QLCF\QLCF\bin\Debug\QLCF.pdb
+E:\University\3rd year\1st Project\Do-an-1\QLCF\QLCF\obj\Debug\QLCF.csprojResolveAssemblyReference.cache
+E:\University\3rd year\1st Project\Do-an-1\QLCF\QLCF\obj\Debug\QLCF.frmMain.resources
+E:\University\3rd year\1st Project\Do-an-1\QLCF\QLCF\obj\Debug\QLCF.Properties.Resources.resources
+E:\University\3rd year\1st Project\Do-an-1\QLCF\QLCF\obj\Debug\QLCF.csproj.GenerateResource.Cache
+E:\University\3rd year\1st Project\Do-an-1\QLCF\QLCF\obj\Debug\QLCF.exe
+E:\University\3rd year\1st Project\Do-an-1\QLCF\QLCF\obj\Debug\QLCF.pdb
+E:\University\3rd year\1st Project\Do-an-1\QLCF\QLCF\bin\Debug\BusinessLogicLayer.dll
+E:\University\3rd year\1st Project\Do-an-1\QLCF\QLCF\bin\Debug\DataAccessLayer.dll
+E:\University\3rd year\1st Project\Do-an-1\QLCF\QLCF\bin\Debug\BusinessLogicLayer.pdb
+E:\University\3rd year\1st Project\Do-an-1\QLCF\QLCF\bin\Debug\DataAccessLayer.pdb
+E:\University\3rd year\1st Project\Do-an-1\QLCF\QLCF\obj\Debug\QLCF.frmGoiMon.resources
+E:\University\3rd year\1st Project\Do-an-1\QLCF\QLCF\obj\Debug\QLCF.ucLoaiMon.resources
+E:\University\3rd year\1st Project\Do-an-1\QLCF\QLCF\obj\Debug\QLCF.ucMon.resources
+E:\University\3rd year\1st Project\Do-an-1\QLCF\QLCF\obj\Debug\QLCF.frmHoaDon.resources
+E:\University\3rd year\1st Project\Do-an-1\QLCF\QLCF\obj\Debug\QLCF.frmChinhSua.resources
+E:\University\3rd year\1st Project\Do-an-1\QLCF\QLCF\obj\Debug\QLCF.ucThongKe.resources
+E:\University\3rd year\1st Project\Do-an-1\QLCF\QLCF\obj\Debug\QLCF.ucCacMon.resources
+E:\University\3rd year\Project 1\Do-an-1\QLCF\QLCF\bin\Debug\QLCF.exe.config
+E:\University\3rd year\Project 1\Do-an-1\QLCF\QLCF\obj\Debug\QLCF.exe
+E:\University\3rd year\Project 1\Do-an-1\QLCF\QLCF\obj\Debug\QLCF.pdb
+E:\University\3rd year\Project 1\Do-an-1\QLCF\QLCF\bin\Debug\QLCF.exe
+E:\University\3rd year\Project 1\Do-an-1\QLCF\QLCF\bin\Debug\QLCF.pdb
+E:\University\3rd year\Project 1\Do-an-1\QLCF\QLCF\bin\Debug\BusinessLogicLayer.dll
+E:\University\3rd year\Project 1\Do-an-1\QLCF\QLCF\bin\Debug\DataAccessLayer.dll
+E:\University\3rd year\Project 1\Do-an-1\QLCF\QLCF\bin\Debug\BusinessLogicLayer.pdb
+E:\University\3rd year\Project 1\Do-an-1\QLCF\QLCF\bin\Debug\DataAccessLayer.pdb
+E:\University\3rd year\Project 1\Do-an-1\QLCF\QLCF\obj\Debug\QLCF.csprojResolveAssemblyReference.cache
+E:\University\3rd year\Project 1\Do-an-1\QLCF\QLCF\obj\Debug\QLCF.frmChinhSua.resources
+E:\University\3rd year\Project 1\Do-an-1\QLCF\QLCF\obj\Debug\QLCF.frmGoiMon.resources
+E:\University\3rd year\Project 1\Do-an-1\QLCF\QLCF\obj\Debug\QLCF.frmHoaDon.resources
+E:\University\3rd year\Project 1\Do-an-1\QLCF\QLCF\obj\Debug\QLCF.frmMain.resources
+E:\University\3rd year\Project 1\Do-an-1\QLCF\QLCF\obj\Debug\QLCF.Properties.Resources.resources
+E:\University\3rd year\Project 1\Do-an-1\QLCF\QLCF\obj\Debug\QLCF.ucCacMon.resources
+E:\University\3rd year\Project 1\Do-an-1\QLCF\QLCF\obj\Debug\QLCF.ucLoaiMon.resources
+E:\University\3rd year\Project 1\Do-an-1\QLCF\QLCF\obj\Debug\QLCF.ucMon.resources
+E:\University\3rd year\Project 1\Do-an-1\QLCF\QLCF\obj\Debug\QLCF.ucThongKe.resources
+E:\University\3rd year\Project 1\Do-an-1\QLCF\QLCF\obj\Debug\QLCF.csproj.GenerateResource.Cache
+E:\University\3rd year\Project 1\Do-an-1\QLCF\QLCF\obj\Debug\QLCF.frmDangNhap.resources
+E:\University\3rd year\Project 1\Do-an-1\QLCF\QLCF\obj\Debug\QLCF.frmDoiMatKhau.resources
+E:\University\3rd year\Project 1\Do-an-1\QLCF\QLCF\obj\Debug\QLCF.ucNhanVien.resources
+E:\University\3rd year\1st Project\Do-an-1\QLCF\QLCF\obj\Debug\QLCF.frmDangNhap.resources
+E:\University\3rd year\1st Project\Do-an-1\QLCF\QLCF\obj\Debug\QLCF.frmDoiMatKhau.resources
+E:\University\3rd year\1st Project\Do-an-1\QLCF\QLCF\obj\Debug\QLCF.ucNhanVien.resources
+D:\demo\Do-an-1\QLCF\QLCF\bin\Debug\QLCF.exe.config
+D:\demo\Do-an-1\QLCF\QLCF\bin\Debug\QLCF.exe
+D:\demo\Do-an-1\QLCF\QLCF\bin\Debug\QLCF.pdb
+D:\demo\Do-an-1\QLCF\QLCF\bin\Debug\BusinessLogicLayer.dll
+D:\demo\Do-an-1\QLCF\QLCF\bin\Debug\DataAccessLayer.dll
+D:\demo\Do-an-1\QLCF\QLCF\bin\Debug\BusinessLogicLayer.pdb
+D:\demo\Do-an-1\QLCF\QLCF\bin\Debug\DataAccessLayer.pdb
+D:\demo\Do-an-1\QLCF\QLCF\obj\Debug\QLCF.csproj.AssemblyReference.cache
+D:\demo\Do-an-1\QLCF\QLCF\obj\Debug\QLCF.frmChinhSua.resources
+D:\demo\Do-an-1\QLCF\QLCF\obj\Debug\QLCF.frmDangNhap.resources
+D:\demo\Do-an-1\QLCF\QLCF\obj\Debug\QLCF.frmDoiMatKhau.resources
+D:\demo\Do-an-1\QLCF\QLCF\obj\Debug\QLCF.frmGoiMon.resources
+D:\demo\Do-an-1\QLCF\QLCF\obj\Debug\QLCF.frmHoaDon.resources
+D:\demo\Do-an-1\QLCF\QLCF\obj\Debug\QLCF.frmMain.resources
+D:\demo\Do-an-1\QLCF\QLCF\obj\Debug\QLCF.Properties.Resources.resources
+D:\demo\Do-an-1\QLCF\QLCF\obj\Debug\QLCF.ucCacMon.resources
+D:\demo\Do-an-1\QLCF\QLCF\obj\Debug\QLCF.ucLoaiMon.resources
+D:\demo\Do-an-1\QLCF\QLCF\obj\Debug\QLCF.ucMon.resources
+D:\demo\Do-an-1\QLCF\QLCF\obj\Debug\QLCF.ucNhanVien.resources
+D:\demo\Do-an-1\QLCF\QLCF\obj\Debug\QLCF.ucThongKe.resources
+D:\demo\Do-an-1\QLCF\QLCF\obj\Debug\QLCF.csproj.GenerateResource.cache
+D:\demo\Do-an-1\QLCF\QLCF\obj\Debug\QLCF.csproj.CoreCompileInputs.cache
+D:\demo\Do-an-1\QLCF\QLCF\obj\Debug\QLCF.csproj.Up2Date
+D:\demo\Do-an-1\QLCF\QLCF\obj\Debug\QLCF.exe
+D:\demo\Do-an-1\QLCF\QLCF\obj\Debug\QLCF.pdb
